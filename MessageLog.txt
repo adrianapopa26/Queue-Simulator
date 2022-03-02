@@ -1,0 +1,126 @@
+Time 0
+Waiting clients: (6,4,1); (1,5,1); (7,7,4); (3,10,2); (5,10,4); (4,11,4); (2,13,3);
+Queue1:closed
+Queue2:closed
+Time 1
+Waiting clients: (6,4,1); (1,5,1); (7,7,4); (3,10,2); (5,10,4); (4,11,4); (2,13,3);
+Queue1:closed
+Queue2:closed
+Time 2
+Waiting clients: (6,4,1); (1,5,1); (7,7,4); (3,10,2); (5,10,4); (4,11,4); (2,13,3);
+Queue1:closed
+Queue2:closed
+Time 3
+Waiting clients: (6,4,1); (1,5,1); (7,7,4); (3,10,2); (5,10,4); (4,11,4); (2,13,3);
+Queue1:closed
+Queue2:closed
+Time 4
+Waiting clients: (1,5,1); (7,7,4); (3,10,2); (5,10,4); (4,11,4); (2,13,3);
+Queue1: (6,4,1);
+Queue2:closed
+Time 5
+Waiting clients: (7,7,4); (3,10,2); (5,10,4); (4,11,4); (2,13,3);
+Queue1: (1,5,1);
+Queue2:closed
+Time 6
+Waiting clients: (7,7,4); (3,10,2); (5,10,4); (4,11,4); (2,13,3);
+Queue1:closed
+Queue2:closed
+Time 7
+Waiting clients: (3,10,2); (5,10,4); (4,11,4); (2,13,3);
+Queue1: (7,7,4);
+Queue2:closed
+Time 8
+Waiting clients: (3,10,2); (5,10,4); (4,11,4); (2,13,3);
+Queue1: (7,7,3);
+Queue2:closed
+Time 9
+Waiting clients: (3,10,2); (5,10,4); (4,11,4); (2,13,3);
+Queue1: (7,7,2);
+Queue2:closed
+Time 10
+Waiting clients: (4,11,4); (2,13,3);
+Queue1: (7,7,1); (5,10,4);
+Queue2: (3,10,2);
+Time 11
+Waiting clients: (2,13,3);
+Queue1: (5,10,4);
+Queue2: (3,10,1); (4,11,4);
+Time 12
+Waiting clients: (2,13,3);
+Queue1: (5,10,3);
+Queue2: (4,11,4);
+Time 13
+Queue1: (5,10,2); (2,13,3);
+Queue2: (4,11,3);
+Time 14
+Queue1: (5,10,1); (2,13,3);
+Queue2: (4,11,2);
+Time 15
+Queue1: (2,13,3);
+Queue2: (4,11,1);
+Time 16
+Queue1: (2,13,2);
+Queue2:closed
+Time 17
+Queue1: (2,13,1);
+Queue2:closed
+Time 18
+Queue1:closed
+Queue2:closed
+Simulation stopped
+Average Service time: 2.7142857142857144
+Average waiting time: 3.2857142857142856
+Peak hour: 10
+Time 0
+Waiting clients: (3,3,2); (4,5,1); (5,6,1); (6,6,4); (7,6,2); (1,8,2); (2,9,2);
+Queue1:closed
+Queue2:closed
+Time 1
+Waiting clients: (3,3,2); (4,5,1); (5,6,1); (6,6,4); (7,6,2); (1,8,2); (2,9,2);
+Queue1:closed
+Queue2:closed
+Time 2
+Waiting clients: (3,3,2); (4,5,1); (5,6,1); (6,6,4); (7,6,2); (1,8,2); (2,9,2);
+Queue1:closed
+Queue2:closed
+Time 3
+Waiting clients: (4,5,1); (5,6,1); (6,6,4); (7,6,2); (1,8,2); (2,9,2);
+Queue1: (3,3,2);
+Queue2:closed
+Time 4
+Waiting clients: (4,5,1); (5,6,1); (6,6,4); (7,6,2); (1,8,2); (2,9,2);
+Queue1: (3,3,1);
+Queue2:closed
+Time 5
+Waiting clients: (5,6,1); (6,6,4); (7,6,2); (1,8,2); (2,9,2);
+Queue1: (4,5,1);
+Queue2:closed
+Time 6
+Waiting clients: (1,8,2); (2,9,2);
+Queue1: (5,6,1); (7,6,2);
+Queue2: (6,6,4);
+Time 7
+Waiting clients: (1,8,2); (2,9,2);
+Queue1: (7,6,2);
+Queue2: (6,6,3);
+Time 8
+Waiting clients: (2,9,2);
+Queue1: (7,6,1); (1,8,2);
+Queue2: (6,6,2);
+Time 9
+Queue1: (1,8,2);
+Queue2: (6,6,1); (2,9,2);
+Time 10
+Queue1: (1,8,1);
+Queue2: (2,9,2);
+Time 11
+Queue1:closed
+Queue2: (2,9,1);
+Time 12
+Queue1:closed
+Queue2:closed
+Simulation stopped
+Average Service time: 2.0
+Average waiting time: 2.4285714285714284
+Peak hour: 6
